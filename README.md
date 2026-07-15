@@ -20,18 +20,18 @@
 - 🎓 Computer Science student majoring in Artificial Intelligence
 - 🧠 Interested in machine learning, deep learning and computer vision
 - 🩻 Exploring AI applications in medical imaging and healthcare research
-- 🚀 Building end-to-end projects that connect trained models with usable software
+- 🚀 Building practical projects around trained machine-learning models
 - 📚 Continuously improving my skills in model development, evaluation and deployment
 
 ## Featured Project
 
 ### [NeuroVista 3D Brain Tumor Segmentation](https://github.com/mohamedrajap22/neurovista-3d-brain-tumor-segmentation)
 
-An end-to-end graduation project for binary whole-tumour segmentation from multimodal 3D brain MRI. It combines a residual 3D Attention U-Net training pipeline with ONNX CPU inference and a full-stack clinical research workstation.
+A graduation project for binary whole-tumour segmentation from multimodal 3D brain MRI. It combines a residual 3D Attention U-Net training pipeline with ONNX CPU inference and a clinical research application.
 
-**Key areas:** 3D medical image segmentation · deep learning · model deployment · MRI visualization · role-based application design
+**Key areas:** 3D medical image segmentation · deep learning · model evaluation · model deployment · MRI visualization
 
-**Technologies:** Python · PyTorch · MONAI · FastAPI · ONNX Runtime · React · TypeScript · Three.js
+**Technologies:** Python · PyTorch · MONAI · FastAPI · ONNX Runtime
 
 ## Technical Skills
 
@@ -50,12 +50,6 @@ An end-to-end graduation project for binary whole-tumour segmentation from multi
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### Frontend and Visualization
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -67,7 +61,7 @@ An end-to-end graduation project for binary whole-tumour segmentation from multi
 
 - Applying ML and deep-learning algorithms to real-world problems
 - Developing reliable computer-vision and medical-imaging pipelines
-- Connecting AI models to practical backend and frontend applications
+- Connecting trained AI models to practical inference applications
 - Learning through reproducible, well-documented projects
 
 ## Connect With Me
