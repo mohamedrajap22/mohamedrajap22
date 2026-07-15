@@ -19,50 +19,52 @@
 
 - 🎓 Computer Science student majoring in Artificial Intelligence
 - 🧠 Interested in machine learning, deep learning and computer vision
-- 🩻 Exploring AI applications in medical imaging and healthcare research
-- 🚀 Building practical projects around trained machine-learning models
-- 📚 Continuously improving my skills in model development, evaluation and deployment
+- 💡 Building strong foundations in object-oriented programming and problem solving
+- 🩻 Exploring AI applications through practical projects such as medical-image segmentation
+- 📚 Continuously improving my skills in model development and evaluation
 
 ## Featured Project
 
 ### [NeuroVista 3D Brain Tumor Segmentation](https://github.com/mohamedrajap22/neurovista-3d-brain-tumor-segmentation)
 
-A graduation project for binary whole-tumour segmentation from multimodal 3D brain MRI. It combines a residual 3D Attention U-Net training pipeline with ONNX CPU inference and a clinical research application.
+A graduation project for binary whole-tumour segmentation from multimodal 3D brain MRI using a residual 3D Attention U-Net.
 
-**Key areas:** 3D medical image segmentation · deep learning · model evaluation · model deployment · MRI visualization
+**Key areas:** 3D medical-image segmentation · deep learning · model evaluation · practical AI application
 
-**Technologies:** Python · PyTorch · MONAI · FastAPI · ONNX Runtime
+**Technologies:** Python · PyTorch · FastAPI
 
 ## Technical Skills
 
-### Machine Learning and Data
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![MONAI](https://img.shields.io/badge/MONAI-0078D4?style=flat-square)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
+
+### Core Foundations
+
+![OOP](https://img.shields.io/badge/Object--Oriented_Programming-4B5563?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-2563EB?style=flat-square)
+
+### Machine Learning and Data
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### Backend and Model Deployment
+### Backend and Databases
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ## Current Focus
 
-- Applying ML and deep-learning algorithms to real-world problems
-- Developing reliable computer-vision and medical-imaging pipelines
-- Connecting trained AI models to practical inference applications
-- Learning through reproducible, well-documented projects
+- Applying machine-learning and deep-learning algorithms to real-world problems
+- Strengthening my problem-solving and software-development foundations
+- Developing computer-vision and medical-imaging projects
+- Learning through reproducible, well-documented implementations
 
 ## Connect With Me
 
