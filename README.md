@@ -46,7 +46,12 @@ A graduation project for binary whole-tumour segmentation from multimodal 3D bra
 ![OOP](https://img.shields.io/badge/Object--Oriented_Programming-4B5563?style=flat-square)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-2563EB?style=flat-square)
 
-### Machine Learning and Data
+### AI Concepts
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning_Algorithms-0F766E?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning_Algorithms-7C3AED?style=flat-square)
+
+### Machine Learning and Data Tools
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
